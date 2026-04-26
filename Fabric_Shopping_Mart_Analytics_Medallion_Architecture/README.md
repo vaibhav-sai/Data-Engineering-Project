@@ -221,7 +221,7 @@ Master Pipeline
 ## 🙋 Author
 
 **Vaibhav Tutika**  
-Microsoft Fabric | Data Engineering | Power BI  
+https://www.linkedin.com/in/vaibhav-thirumalesh/?skipRedirect=true
 
 ---
 
