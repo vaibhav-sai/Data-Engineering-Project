@@ -213,7 +213,8 @@ Master Pipeline
 
 ## 📸 Dashboard Preview
 
-![Shopping Mart Analytics Dashboard](./reports/dashboard_preview.png)
+<img width="1920" height="1080" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/3bab723d-82ad-4151-8f29-7026d9f1e641" />
+
 
 ---
 
