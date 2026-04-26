@@ -221,7 +221,7 @@ Master Pipeline
 ## 🙋 Author
 
 **Vaibhav Tutika**  
-https://www.linkedin.com/in/vaibhav-thirumalesh/?skipRedirect=true
+https://www.linkedin.com/in/vaibhav-thirumalesh/
 
 ---
 
