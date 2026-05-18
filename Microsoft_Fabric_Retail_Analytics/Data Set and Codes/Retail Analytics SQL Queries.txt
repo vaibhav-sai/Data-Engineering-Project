@@ -1,0 +1,18 @@
+-- View the Data 
+select * from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
+-- Total Orders 
+select sum(Total_Orders) as total_orders from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
+-- Total Returns
+select sum(Total_Returns) as total_returns from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
+-- Total Revenue 
+select sum(Total_Revenue) as total_revenue from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
+-- Avg Cost 
+select sum(Avg_Cost) as Avg_Cost from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
+-- Total Stock 
+select sum(Total_Stock) as Total_Stock from [Retail_Lakehouse].[Retail_Analytics].[gold_product_month_kpis]
+
